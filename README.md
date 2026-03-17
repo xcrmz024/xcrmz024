@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola!, soy Karla 👋 
 
-<!--
-**xcrmz024/xcrmz024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologías
 
-Here are some ideas to get you started:
+- HTML5
+- CSS3
+- Java 21
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- MySQL
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Proyecto destacado
+
+Sitio web para gestión de un santuario animal
+
+🔗 hogar-seguro-production.up.railway.app
+
+
+
+
+
+
