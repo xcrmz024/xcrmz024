@@ -2,14 +2,14 @@
 
 ## 🛠️ Tecnologías
 
-- HTML5
-- CSS3
 - Java 21
 - Spring Boot
 - Spring Security
 - Spring Data JPA
 - MySQL
 - Docker
+- HTML5
+- CSS3
 
 ## 🌐 Proyecto destacado
 
